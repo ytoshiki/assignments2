@@ -1,0 +1,11 @@
+.custom-select > div {
+  width: 200px;
+  border: 1px solid black;
+  padding: 4px;
+  cursor: pointer;
+}
+
+.pick {
+  display: none;
+}
+/*# sourceMappingURL=style.css.map */
